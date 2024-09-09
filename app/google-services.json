@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "435189617106",
+    "firebase_url": "https://project-4bim-default-rtdb.firebaseio.com",
+    "project_id": "project-4bim",
+    "storage_bucket": "project-4bim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435189617106:android:e1b4042ff4644813f0b80b",
+        "android_client_info": {
+          "package_name": "com.example.listabrunao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB07zb_Qs_LYwlc2Oz6U1AiJF3ZtJLHP3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435189617106:android:a77017a16a4b6a7af0b80b",
+        "android_client_info": {
+          "package_name": "com.example.project_4bim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB07zb_Qs_LYwlc2Oz6U1AiJF3ZtJLHP3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435189617106:android:4de8d5cd2841f697f0b80b",
+        "android_client_info": {
+          "package_name": "com.example.projeto4bim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB07zb_Qs_LYwlc2Oz6U1AiJF3ZtJLHP3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
